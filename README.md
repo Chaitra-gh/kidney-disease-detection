@@ -12,7 +12,7 @@ Chronic kidney disease often goes undetected until an advanced stage, when treat
 
 ## Dataset
 
-The model is trained on the **CT Kidney Dataset (Normal–Cyst–Tumor–Stone)** from Kaggle. Scans were originally sourced from PACS systems across hospitals in Dhaka, Bangladesh, where patients had already been diagnosed.
+The model is trained on the **CT Kidney Dataset (Normal–Cyst–Tumor–Stone)** from real world dataset. Scans were originally sourced from PACS systems across hospitals in Hubballi, where patients had already been diagnosed.
 
 | Class  | Images |
 |--------|--------|
@@ -22,7 +22,6 @@ The model is trained on the **CT Kidney Dataset (Normal–Cyst–Tumor–Stone)*
 | Stone  | 1,377  |
 | **Total** | **12,446** |
 
-> Update this section with the exact Kaggle dataset link before publishing.
 
 ## Approach
 
